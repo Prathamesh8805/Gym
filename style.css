@@ -1,7 +1,7 @@
 body{
     margin: 0px;
     padding: 0px;
-    background: url('stargym2.jpg');
+    background: url('stargym2.jpg') no-repeat;
     font-family: 'Baloo Bhai 2',cursive;
 
 }
